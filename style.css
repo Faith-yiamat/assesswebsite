@@ -1,0 +1,234 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
+
+
+
+.forher{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.words{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+
+}
+.forhim{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    margin-top: 5%;
+    .image8{
+        margin-top: 5%;
+    }
+
+}
+.som{
+    display: flex;
+    flex-direction: column;
+}
+.sops{
+    display: flex;
+    flex-direction: column;
+}
+.topw{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.shopnow{
+    display: flex;
+    flex-direction: column;
+}
+.acces{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}.new{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between; 
+    margin-top: 5%;
+}
+.april{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 14px 12px;
+}
+.store{
+    margin-left: 20%;
+    margin-top: 10%;
+
+}
+.head{
+    font-size: xx-large;
+}
+
+
+
+@media  screen and (max-width:480px){
+    .top{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between;
+        font-size: x-small;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-evenly;
+        font-size:x-small;
+    }
+    
+    
+    
+    .forher{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between;
+        font-size: x-small;
+        margin-top: 5%;
+    }
+    .words{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between;
+        font-size: x-small;
+    
+    }
+    .forhim{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between;
+        font-size: x-small;
+        margin-top: 5%;
+    }
+    .som{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    }
+    .sops{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    }
+    .topw{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size:x-small;
+
+    }
+    .shopnow{
+        display: flex;
+        flex-direction: column;
+        font-size: x-small;
+    }
+    .acces{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: x-small;
+
+    
+    }.new{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between; 
+        font-size: x-small;
+    }
+    .april{
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-between;
+        font-size: x-small;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    button{
+        background-color: black;
+        color: white;
+        padding: 8px 6px;
+        font-size: x-small;
+    }
+    .store{
+        margin-left: 20%;
+        margin-top: 10%;
+        font-size: x-small;
+    
+    }
+    .head{
+        font-size: xx-large;
+    }
+    .image1{
+
+
+    }
+    .image2{
+    width: 100px;
+    height: 100px;
+
+    }
+    .image3{
+
+        width: 200px;
+        height: 200px;
+    }
+    .image4{
+      
+        width: 200px;
+        height: 200px; 
+
+    }
+    .image5{
+
+        width: 200px;
+        height: 200px;
+    }
+    .image6{
+        width: 200px;
+        height: 200px;
+
+    }
+    .image7{
+        width: 200px;
+        height: 200px;
+
+
+    }
+    .image8{
+        width: 400px;
+        height: 200px;
+    }
+
+}
